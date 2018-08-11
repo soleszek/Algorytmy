@@ -1,0 +1,6 @@
+Sylwester, Oleszek, , programista, 1
+Katarzyna, Oleszek, , archeolog, 2
+�ukasz, Ciuraj, , programista, 3
+Konrad, Fronczek, , kurier, 4
+Krystyna, Oleszek, , ksi�gowa, 5
+Mieczys�aw, Oleszek, , glazurnik, 6

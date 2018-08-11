@@ -1,0 +1,6 @@
+Katarzyna;Oleszek;archeolog;2;
+Krystyna;Oleszek;ksiêgowa;5;
+Mieczys³aw;Oleszek;glazurnik;6;
+Sylwester;Oleszek;programista;1;
+Konrad;Fronczek;kurier;4;
+£ukasz;Ciuraj;programista;3;
