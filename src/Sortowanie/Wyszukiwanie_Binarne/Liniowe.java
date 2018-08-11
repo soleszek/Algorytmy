@@ -5,16 +5,27 @@ public class Liniowe {
 
         Integer[] tablica = {1, 2, 3, 4, 5, 6, 7};
 
-
+        System.out.println(BinarySearchLin(tablica, 2));
 
     }
 
-    static Integer BinarySearchLin(Integer[] tablica, Integer e) {
+    static Integer BinarySearchLin(Integer[] tablica, Integer value) {
 
-        int cel = tablica.length / 2;
+        int low = 0;
+        int high = tablica.length - 1;
 
-        if (tablica[cel] == e)
+        while (low <= high) {
+            int mid = (low + high) / 2;
 
-        return null;
+            if (tablica[mid] > value) {
+                high = mid - 1;
+            } else if (tablica[mid] < value) {
+                low = mid + 1;
+            } else {
+                return mid;
+            }
+        }
+
+        return -1;
     }
 }
