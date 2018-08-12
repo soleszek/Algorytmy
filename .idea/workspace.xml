@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0052b3b5-89ea-4a5e-9066-f1232a619bcf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/CompareOsoby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main3_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zad3/Osoby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zad3/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11_08/Bubble_sort/Zad1/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11_08/Bubble_sort/Zad1/Zad1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11_08/Bubble_sort/Zad1/Zad2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11_08/Bubble_sort/Zad1/Zad3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11_08/Bubble_sort/Zad1/Zad4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort/Zad1/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/11_08/Zad3/Zad3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/11_08/Zad3/Zad3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,51 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Liniowe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sortowanie/Wyszukiwanie_Binarne/Liniowe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinearSearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sortowanie/LinearSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Osoba.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Osoba.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,14 +63,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zad3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Zad3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zad3/Zad3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="323">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zad1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zad2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zad3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zad4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -156,24 +160,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="121" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="16" selection-end-column="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zad2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sortowanie/Zad2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -209,6 +195,11 @@
         <option value="$PROJECT_DIR$/src/Sortowanie/Zadania_Algorytmy/Main3_Sorted.java" />
         <option value="$PROJECT_DIR$/src/Zad3/Osoby.java" />
         <option value="$PROJECT_DIR$/src/Zad3/Zad3.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad1.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad2.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad3.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad4.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_sort/Zad1/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -227,8 +218,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -252,6 +243,12 @@
               <item name="11_08" type="b2602c69:ProjectViewProjectNode" />
               <item name="11_08" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="11_08" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11_08" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Zad1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="11_08" type="b2602c69:ProjectViewProjectNode" />
@@ -311,47 +308,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zad3">
-    <configuration name="Liniowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sortowanie.Wyszukiwanie_Binarne.Liniowe" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_sort.Zad1.BubbleSort" />
       <module name="11_08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sortowanie.Wyszukiwanie_Binarne.*" />
+          <option name="PATTERN" value="Bubble_sort.Zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sortowanie.Zadania_Algorytmy.Main" />
+    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_sort.Zad1.Zad1" />
       <module name="11_08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sortowanie.Zadania_Algorytmy.*" />
+          <option name="PATTERN" value="Bubble_sort.Zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sortowanie.Zadania_Algorytmy.Main2" />
+    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_sort.Zad1.Zad2" />
       <module name="11_08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sortowanie.Zadania_Algorytmy.*" />
+          <option name="PATTERN" value="Bubble_sort.Zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main3_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sortowanie.Zadania_Algorytmy.Main3_Sorted" />
+    <configuration name="Zad3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_sort.Zad1.Zad3" />
       <module name="11_08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sortowanie.Zadania_Algorytmy.*" />
+          <option name="PATTERN" value="Bubble_sort.Zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,19 +406,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Liniowe" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Main3_Sorted" />
       <item itemvalue="Application.Zad3" />
+      <item itemvalue="Application.Zad1" />
+      <item itemvalue="Application.Zad2" />
+      <item itemvalue="Application.Zad3 (1)" />
+      <item itemvalue="Application.BubbleSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Zad3 (1)" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.Zad1" />
         <item itemvalue="Application.Zad3" />
-        <item itemvalue="Application.Main3_Sorted" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Liniowe" />
       </list>
     </recent_temporary>
   </component>
@@ -435,15 +432,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533972586267</updated>
-      <workItem from="1533972590916" duration="22491000" />
+      <workItem from="1533972590916" duration="26010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22491000" />
+    <option name="totallyTimeSpent" value="26010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -456,18 +453,18 @@
       <window_info anchor="right" id="Maven Projects" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15571429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25104022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12147651" />
       <window_info anchor="right" id="Database" weight="0.32871014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24965326" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38841808" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -484,7 +481,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad1.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bubble_sort/Zad1/BubbleSort.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -687,13 +698,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Zad3/Zad3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/Zad3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_sort/Zad1/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
